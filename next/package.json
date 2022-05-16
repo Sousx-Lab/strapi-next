@@ -1,0 +1,27 @@
+{
+  "name": "groupo-mania-next",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Next application",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.1.5",
+    "nookies": "^2.5.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "8.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-n": "15.0.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-react": "^7.29.4"
+  }
+}
